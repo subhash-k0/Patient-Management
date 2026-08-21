@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "spring.kafka.consumer.key-deserializer",
+      "type": "java.lang.String",
+      "description": "Description for spring.kafka.consumer.key-deserializer."
+    },
+    {
+      "name": "spring.kafka.consumer.value-deserializer",
+      "type": "java.lang.String",
+      "description": "Description for spring.kafka.consumer.value-deserializer."
+    },
+    {
+      "name": "spring.kafka.bootstrap-servers",
+      "type": "java.lang.String",
+      "description": "Description for spring.kafka.bootstrap-servers."
+    }
+  ] }
